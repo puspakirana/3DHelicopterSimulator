@@ -1,0 +1,11 @@
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\bin\Debug\PA12-3DCGA-FIX.exe.config
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\bin\Debug\PA12-3DCGA-FIX.exe
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\bin\Debug\PA12-3DCGA-FIX.pdb
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\bin\Debug\PA12-3DCGA-FIX.xml
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\obj\Debug\PA12-3DCGA-FIX.vbprojAssemblyReference.cache
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\obj\Debug\PA12_3DCGA_FIX.Form1.resources
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\obj\Debug\PA12_3DCGA_FIX.Resources.resources
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\obj\Debug\PA12-3DCGA-FIX.vbproj.GenerateResource.cache
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\obj\Debug\PA12-3DCGA-FIX.exe
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\obj\Debug\PA12-3DCGA-FIX.xml
+\\Mac\Home\Documents\07. Semester 7\3D CGA\1. PA 12 - helicopter\PA12-3DCGA-FIX\PA12-3DCGA-FIX\obj\Debug\PA12-3DCGA-FIX.pdb
